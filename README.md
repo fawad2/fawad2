@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently preparing for **Amazon Solution Architect**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/fawadhanif](https://www.novypro.com/profile_projects/fawadhanif)
+- 👨‍💻 All of my projects are available at [click here](https://resume.fawad.cloud)
 
 - 💬 Ask me about **Cloud Computing, Data**
 
