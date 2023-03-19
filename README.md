@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawad2&label=Profile%20views&color=0e75b6&style=flat" alt="fawad2" /> </p>
 
-- 🔭 I’m currently working on [Laysoff 2022](https://www.novypro.com/project/laysoff)
+- 🔭 I’m currently working on [developing new skills]
 
-- 🌱 I’m currently learning **Amazon Cloud Practitioner**
+- 🌱 I’m currently preparing for **Amazon Solution Architect**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/fawadhanif](https://www.novypro.com/profile_projects/fawadhanif)
 
-- 💬 Ask me about **Data**
+- 💬 Ask me about **Cloud Computing, Data**
 
 - 📫 How to reach me **f0w.sheikha@outlook.com**
 
